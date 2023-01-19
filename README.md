@@ -1,6 +1,4 @@
 # salama4ai_Tagaddod
-this is simple assessment data-engineering task
-
 ![Screenshot](Tagadod problem statement.png)
 
 #
