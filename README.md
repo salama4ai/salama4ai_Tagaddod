@@ -1,10 +1,10 @@
 # salama4ai_Tagaddod
 this is simple assessment data-engineering task
 
-![Screenshot]("Tagadod problem statement.png")
+![Screenshot](Tagaddod_Intro_Talent_Acquisition.png)
 
 #
-this work done by Ahmed Salama at Oct-2022
+this work done by Ahmed Salama
 
 salama4ai@gmail.com
 
